@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/twitter-archive/iago/commit/019a4adfbfa913e6307cdc5a589089e95cfb6285",
       "git:hexsha": "019a4adfbfa913e6307cdc5a589089e95cfb6285",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-10T07:45:50.399697+00:00"
     }
   ]
 }
